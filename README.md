@@ -10,7 +10,7 @@
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81929616/115126638-7c0fee00-9f9e-11eb-8640-c8f6496d6e1b.png)
 
-#### Comparing the data based on goal amounts, we see that the most success is seen in campaigns that have a small goal. The large majority of the data is contained within these lower goal amounts, but their success percentage is also the highest.
+#### Comparing the data based on goal amounts, we see that the most success is in campaigns that have a smaller goal. The large majority of the data is contained within these lower goal amounts, but their success percentage is also the highest.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/81929616/115127586-93060e80-9fa5-11eb-893b-79f17d38fd70.png)
 
