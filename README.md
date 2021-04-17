@@ -6,7 +6,9 @@
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### While comparing the data based on Launch date, we can immediately see that the most successful campaigns begin in the late spring to early summer months, with 111 successful campaigns beginning in May, 100 in June and 87 in July. 
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81929616/115126638-7c0fee00-9f9e-11eb-8640-c8f6496d6e1b.png)
 
 ### Analysis of Outcomes Based on Goals
 
