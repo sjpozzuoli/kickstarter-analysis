@@ -5,3 +5,6 @@ performing analysis on Kickstarter data to uncover trends
 ## this shows outcomes based on launch dates
 
 ### this is a strong piece of evidence to suggest xyz
+* strong
+* medium
+* low
