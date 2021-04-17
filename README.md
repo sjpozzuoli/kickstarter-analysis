@@ -1,6 +1,6 @@
 # Analyzing the Outcomes of Kickstarter Campaigns
 
-###  This data analysis was completed in order to help our client, Louise, create a Kickstarter campaign. We will use historical data on Kickstarter to compare the success rate of plays launched by date and funding goal.
+###  This data analysis was completed in order to help our client, Louise, create a Kickstarter campaign. We will use historical data on Kickstarter to compare the success rate by date and funding goal.
 
 ### The purpose of this project is to help Louise determine when she should launch her project and how much her goal should be on Kickstarter.
 
@@ -10,7 +10,7 @@
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81929616/115126638-7c0fee00-9f9e-11eb-8640-c8f6496d6e1b.png)
 
-### Analysis of Outcomes Based on Goals
+#### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
