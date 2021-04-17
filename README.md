@@ -1,8 +1,8 @@
-# Kickstarting with Excel
+# Analyzing the Outcomes of Theater Projects and Plays based on Launch Date and Kickstarter Goals
 
-## Overview of Project
+##  This data analysis was completed in order to help our client, Louise, create a Kickstarter campaign. We will use historical data on Kickstarter to compare the success rate of plays launched by date and funding goal.
 
-### Purpose
+### The purpose of this project is to help Louise determine when she should launch her project and how much her goal should be on Kickstarter.
 
 ## Analysis and Challenges
 
