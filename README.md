@@ -21,6 +21,7 @@
   * abc
 
 2. Conslusions of Outcomes based on Goals
+  * The smaller the goal, the better chance the Kickstarter has to be a success. If the goal is kept to $4999 and under, the chance of success is 73%.
 
 3. Limiatations of the Dataset
   * We are comparing the entire theater category by launch date and only the subcategory of plays by goal amounts. There could be some outlier data in the theater category that is not specifically related to Louise wanting to create a goal for a play.  
