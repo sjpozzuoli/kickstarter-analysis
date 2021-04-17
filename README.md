@@ -20,7 +20,7 @@
   * May and June are the most successful months to launch a campaign based both on number and percentage. 
   * The only month where there is less than 50% of campaigns successful is December. 
 
-2. Conslusions of Outcomes based on Goals
+2. Conslusion of Outcomes based on Goals
   * The smaller the goal, the better chance the Kickstarter has to be a success. If the goal is kept to $4999 and under, the chance of success is 73%.
 
 3. Limiatations of the Dataset
