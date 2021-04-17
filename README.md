@@ -16,11 +16,13 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. Two conclusions of Outcomes based on Launch Date
+  * xyz
+  * abc
 
-- What can you conclude about the Outcomes based on Goals?
+2. Conslusions of Outcomes based on Goals
 
-- Limiatations of the Dataset
+3. Limiatations of the Dataset
   * We are comparing the entire theater category by launch date and only the subcategory of plays by goal amounts. There could be some outlier data in the theater category that is not specifically related to Louise wanting to create a goal for a play.  
 
-- What are some other possible tables and/or graphs that we could create?
+4. What are some other possible tables and/or graphs that we could create?
