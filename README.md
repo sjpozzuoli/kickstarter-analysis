@@ -31,3 +31,5 @@
   * The dataset covers a span of 9 years. The data may be more indicative and show a negative or positive trend if examined more closely year over year. This could ultimately show Louise whether Play campaigns have been more successful recently, or if there is a downward trend in the data.
 
 4. What are some other possible tables and/or graphs that we could create?
+  * I would like to create a table showing the year over year success rate of campaign goals to show if there is a positive trend in the rate of goals being met.
+  * A box and whisker chart could be created to show the Interquartile ranges within the most successful goal amounts. This could help Louise to pinpoint the most optimal goal amount.
