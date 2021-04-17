@@ -1,4 +1,4 @@
-# Analyzing the Outcomes of Theater Projects and Plays based on Launch Date and Kickstarter Goals
+# Analyzing the Outcomes of Kickstarter Campaigns
 
 ##  This data analysis was completed in order to help our client, Louise, create a Kickstarter campaign. We will use historical data on Kickstarter to compare the success rate of plays launched by date and funding goal.
 
