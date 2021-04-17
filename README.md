@@ -20,7 +20,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
+- Limiatations of the Dataset
   * We are comparing the entire theater category by launch date and only the subcategory of plays by goal amounts. There could be some outlier data in the theater category that is not specifically related to Louise wanting to create a goal for a play.  
 
 - What are some other possible tables and/or graphs that we could create?
