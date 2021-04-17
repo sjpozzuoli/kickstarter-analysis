@@ -1,10 +1,23 @@
-# Module 1 Pre-Work
-performing analysis on Kickstarter data to uncover trends
-![Outcomes Based on Launch Date Image](https://user-images.githubusercontent.com/81929616/115121418-afdc1b00-9f80-11eb-95b7-2f850833c350.png)
+# Kickstarting with Excel
 
-## this shows outcomes based on launch dates
+## Overview of Project
 
-### this is a strong piece of evidence to suggest xyz
-* strong
-* medium
-* low
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
