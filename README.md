@@ -14,7 +14,11 @@
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/81929616/115127586-93060e80-9fa5-11eb-893b-79f17d38fd70.png)
 
-### Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
+
+#### Although I did not face any specific Challenges, there are some that I could foresee one having when perfroming an analysis like this.
+1. The limited amount of data for the specific type of project we created this for could ultimately lead to some inaccuracies. The conclusions could be different if the data was more robust.
+2. Understanding the most optimal way to represent the recommendation is something that takes experience and as I grow in this program, I believe it will be easier to express thoughts based on data.
 
 ## Results
 
