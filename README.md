@@ -4,7 +4,7 @@
 
 ### The purpose of this project is to help Louise determine when she should launch her project and how much her goal should be on Kickstarter.
 
-## Analysis and Challenges
+## Analysis
 
 #### Comparing the data based on Launch date, we can immediately see that the most successful campaigns begin in the late spring to early summer months, with 111 successful campaigns beginning in May, 100 in June and 87 in July. 
 
